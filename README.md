@@ -6,5 +6,5 @@ Documentación de Biopython traducida al español
 
 ## Cómo contribuir
 
-[Link al panel del projecto](https://github.com/orgs/SouthernBio/projects/1)
-[Incidencias](https://github.com/SouthernBio/Biopython-ES/issues)
+- [Link al panel del proyecto](https://github.com/orgs/SouthernBio/projects/1)
+- [Incidencias](https://github.com/SouthernBio/Biopython-ES/issues)
