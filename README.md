@@ -6,5 +6,5 @@ Documentación de Biopython traducida al español
 
 ## Cómo contribuir
 
-- [Click acá](https://github.com/SouthernBio/Biopython-ES/blob/main/CONTRIBUTING.md)
+- [Click acá para ver la guía de contribuciones](https://github.com/SouthernBio/Biopython-ES/blob/main/CONTRIBUTING.md)
 
