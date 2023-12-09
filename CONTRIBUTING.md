@@ -43,5 +43,3 @@ Cuando realicen el pull request, se revisarán las traducciones para verificar s
 ## Notas finales
 
 Iré editando la guía de contribuciones a medida que surjan dudas o lo vea necesario. Ante cualquier consulta, pueden abrir un issue o bien contactarse a través de Telegram.
-
-[@SouthernBio en Telegram](https://t.me/southernbio)
